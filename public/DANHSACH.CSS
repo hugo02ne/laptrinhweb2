@@ -1,0 +1,16 @@
+table{
+    width : 600px;
+    height :60%;
+
+}
+#table1{
+    margin-top: 10px;
+   }
+
+#table2{
+    margin-top: 20px;
+   }
+
+#home{
+    border-left:1px solid black ;
+   }
